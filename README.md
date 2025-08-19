@@ -74,6 +74,9 @@ Copyright © 2021-2025 Marnack
 - DlxTrains ModPack code is licensed under the GNU AGPL version 3 license, see [LICENSE.txt](LICENSE.txt) for details.
 - Unless otherwise specified, DlxTrains ModPack media (models, textures and sounds) are licensed under [CC BY-SA 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/).
 
+Copyright © 2025 Marnack and MatyasP
+- Repaints of locomotives with design of Czech locomotives: CC BY-SA, first author Marnack, editors from team of MatyasP (repaints with numbers of vehicles: 749*)
+
 ### Attributions
 
 The following textures from prior art where included in whole or in part in some of the textures for this ModPack:
